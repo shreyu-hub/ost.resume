@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Resume</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+}
+.container {
+    width: 800px;
+    margin: 20px auto;
+    background: #fff;
+    display: flex;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+.header {
+    background: #2f4a8a;
+    color: white;
+    padding: 20px;
+}
+.left {
+    width: 35%;
+    background: #f7f7f7;
+    padding: 20px;
+}
+.right {
+    width: 65%;
+    padding: 20px;
+}
+h2 {
+    border-bottom: 2px solid #2f4a8a;
+    padding-bottom: 5px;
+}
+ul {
+    padding-left: 20px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="header">
+    <h1>Shreya Chopda</h1>
+    <p>Third Year ENTC Engineering Student</p>
+    <p>Email: shreyachopda37@gmail.com | Phone: +91 7499963688</p>
+</div>
+
+<div class="container">
+
+<div class="left">
+    <h2>Skills</h2>
+    <ul>
+        <li>Control System Analysis</li>
+        <li>MATLAB & Simulink</li>
+        <li>Signal Processing Basics</li>
+        <li>Embedded Systems</li>
+        <li>Arduino Programming</li>
+        <li>PID Controller Design</li>
+        <li>C Programming</li>
+        <li>Basic Python</li>
+    </ul>
+
+    <h2>Technical Tools</h2>
+    <ul>
+        <li>MATLAB</li>
+        <li>Proteus</li>
+        <li>Multisim</li>
+        <li>Arduino IDE</li>
+        <li>Linux Basics</li>
+    </ul>
+
+    <h2>Extra Curricular Activities</h2>
+    <ul>
+        <li>Member of Robotics Club</li>
+        <li>Participation in Technical Paper Presentation</li>
+        <li>Volunteer in College Tech Fest</li>
+        <li>Organized Electronics Workshop</li>
+        <li>Participated in Hackathon</li>
+    </ul>
+</div>
+
+<div class="right">
+    <h2>Career Objective</h2>
+    <p>
+        Motivated Third Year Electronics and Telecommunication Engineering student 
+        with strong interest in control systems, embedded systems, and automation. 
+        Seeking opportunities to apply theoretical knowledge in real-world projects.
+    </p>
+
+    <h2>Education</h2>
+    <ul>
+        <li>B.TECH Electronics and Telecommunication Engineering (TY)</li>
+        <li>HSC – Maharashtra State Board</li>
+        <li>SSC – Maharashtra State Board</li>
+    </ul>
+
+    <h2>Control System Projects</h2>
+    <ul>
+        <li><b>PID Based Temperature Control System</b></li>
+        <li><b>DC Motor Speed Control using Arduino</b></li>
+        <li><b>Automated Water Level Controller</b></li>
+        <li><b>Line Following Robot</b></li>
+    </ul>
+
+    <h2>Certifications</h2>
+    <ul>
+        <li>Introduction to Control Systems</li>
+    </ul>
+</div>
+
+</div>
+
+</body>
+</html>
